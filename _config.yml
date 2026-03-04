@@ -1,0 +1,6 @@
+title: Addin-DeepL | Dịch DeepL trong Excel
+description: Add-in VBA dịch văn bản bằng DeepL API (Free/Pro)
+
+theme: jekyll-theme-minimal          # Hoặc remote_theme: pages-themes/minimal@v0.2.0 nếu lỗi
+
+markdown: kramdown
